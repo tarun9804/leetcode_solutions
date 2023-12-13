@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="helloworld.h" />
+    <ClInclude Include="preproc.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="helloworld.cpp" />
