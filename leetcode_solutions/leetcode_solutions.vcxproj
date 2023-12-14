@@ -129,11 +129,13 @@
   <ItemGroup>
     <ClInclude Include="helloworld.h" />
     <ClInclude Include="preproc.h" />
+    <ClInclude Include="P_13_Roman_to_Integer.h" />
     <ClInclude Include="P_26_remove_duplicates_from_soted_array.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="helloworld.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="P_13_Roman_to_Integer.cpp" />
     <ClCompile Include="P_26_remove_duplicates_from_soted_array.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

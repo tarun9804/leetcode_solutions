@@ -24,6 +24,9 @@
     <ClInclude Include="P_26_remove_duplicates_from_soted_array.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="P_13_Roman_to_Integer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="helloworld.cpp">
@@ -33,6 +36,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="P_26_remove_duplicates_from_soted_array.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P_13_Roman_to_Integer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
