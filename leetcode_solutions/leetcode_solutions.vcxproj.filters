@@ -30,6 +30,9 @@
     <ClInclude Include="P_53_maximum_subarray.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="P_14_Longest_common_prefix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="helloworld.cpp">
@@ -45,6 +48,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="P_53_maximum_subarray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P_14_Longest_common_prefix.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

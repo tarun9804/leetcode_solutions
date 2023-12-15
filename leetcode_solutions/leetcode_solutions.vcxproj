@@ -130,6 +130,7 @@
     <ClInclude Include="helloworld.h" />
     <ClInclude Include="preproc.h" />
     <ClInclude Include="P_13_Roman_to_Integer.h" />
+    <ClInclude Include="P_14_Longest_common_prefix.h" />
     <ClInclude Include="P_26_remove_duplicates_from_soted_array.h" />
     <ClInclude Include="P_53_maximum_subarray.h" />
   </ItemGroup>
@@ -137,6 +138,7 @@
     <ClCompile Include="helloworld.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="P_13_Roman_to_Integer.cpp" />
+    <ClCompile Include="P_14_Longest_common_prefix.cpp" />
     <ClCompile Include="P_26_remove_duplicates_from_soted_array.cpp" />
     <ClCompile Include="P_53_maximum_subarray.cpp" />
   </ItemGroup>
